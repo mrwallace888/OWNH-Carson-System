@@ -2,8 +2,8 @@
   "filename": "NewHorizonsConfig.dll",
   "author": "Jack Foxtrot",
   "name": "Carson System",
-  "uniqueName": "JackFoxtrot.0001",
-  "version": "0.1.0",
+  "uniqueName": "JackFoxtrot.CarsonSystem",
+  "version": "0.1.1",
   "owmlVersion": "2.1.0",
   "dependencies": [ "xen.NewHorizons" ]
 }
