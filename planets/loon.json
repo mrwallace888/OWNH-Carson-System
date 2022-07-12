@@ -1,0 +1,32 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name" : "Loon",
+	"starSystem" : "JackFoxtrot.CarsonSystem",
+	"Base" :
+	{
+		"surfaceGravity" : 5,
+		"surfaceSize" : 500,
+		"hasMapMarker" : true,
+		"ambientLight": 1.4
+	},
+	"Orbit" :
+	{
+		"semiMajorAxis" : 6000,
+		"inclination" : 25,
+		"primaryBody" : "Urath",
+		"isMoon" : true,
+		"longitudeOfAscendingNode" : 0,
+		"eccentricity" : 0,
+		"argumentOfPeriapsis": 102,
+		"trueAnomaly" : 270,
+		"axialTilt" : 23,
+		"isTidallyLocked": true
+	},
+	"HeightMap" :
+	{
+		"heightMap" : "planets/assets/loon3heightmap.png",	
+		"textureMap" : "planets/assets/loon3.png",	
+		"minHeight" : 450,
+		"maxHeight" : 500
+	}
+}

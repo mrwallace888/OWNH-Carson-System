@@ -1,0 +1,7 @@
+{
+	"canEnterViaWarpDrive" : true,
+	"startHere" : false,
+	"destroyStockPlanets" : true,
+	"enableTimeLoop" : true,
+	"travelAudioFilePath": "systems/Eternal Moment.wav"
+}

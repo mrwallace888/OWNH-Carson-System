@@ -1,0 +1,51 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name" : "Platinum Hue",
+	"starSystem" : "JackFoxtrot.CarsonSystem",
+	"Base" :
+	{
+		"surfaceGravity" : 20,
+		"surfaceSize" : 4000,
+		"hasMapMarker" : true,
+		"ambientLight": 1.4
+	},
+	"Orbit" :
+	{
+		"semiMajorAxis" : 75000,
+		"inclination" : 10,
+		"primaryBody" : "Carson",
+		"isMoon" : false,
+		"longitudeOfAscendingNode" : 0,
+		"eccentricity" : 0,
+		"argumentOfPeriapsis": 102,
+		"trueAnomaly" : 360,
+		"axialTilt" : -23,
+		"siderealPeriod" : -1
+	},
+	"Atmosphere": {
+		"size": 4000,
+		"clouds": {
+			"outerCloudRadius": 4000,
+			"innerCloudRadius": 3700,
+			"fluidType": "cloud",
+			"cloudsPrefab": "giantsDeep",
+			"texturePath": "planets/assets/platinum hue2.png",
+			"tint": {
+				"r": 145,
+				"g": 176,
+				"b": 255,
+				"a": 255
+			},
+			"hasLightning": true
+		},
+		"fogTint": {
+			"r": 145,
+			"g": 176,
+			"b": 255,
+			"a": 255
+		},
+		"fogDensity": 1,
+		"fogSize": 4000,
+		"useAtmosphereShader": true
+	}
+}

@@ -1,9 +1,9 @@
 {
   "filename": "NewHorizonsConfig.dll",
-  "author": "[your name]",
-  "name": "[your readable mod name]",
-  "uniqueName": "[your name].[your unique mod ID]",
-  "version": "0.0.0",
+  "author": "Jack Foxtrot",
+  "name": "Carson System",
+  "uniqueName": "JackFoxtrot.0001",
+  "version": "0.1.0",
   "owmlVersion": "2.1.0",
   "dependencies": [ "xen.NewHorizons" ]
 }
