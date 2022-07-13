@@ -46,4 +46,4 @@ The *Carson* star system is a large yellow dwarf star about halfway through its 
 
 ### Pyer
 *Pyer* is a cloudy moon that orbits *Scarlet Storm*. It's so purple it makes my eyes hurt. But it's still kind of pretty. Please be careful when landing on this planet, and double-check that your suit's oxygen filters are closed before leaving the ship. The atmosphere is composed of hydrogen cyanide, and you wouldn't exactly want to be breathing that in.
-![](https://i.imgur.com/xXCsdaC.png}
+![](https://i.imgur.com/xXCsdaC.png)
