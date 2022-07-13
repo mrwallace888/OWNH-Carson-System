@@ -1,0 +1,70 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name" : "Mirtha",
+	"starSystem" : "JackFoxtrot.CarsonSystem",
+	"Spawn": {
+		"playerSpawnPoint": 
+		{
+			"x": 7.518494,
+			"y": 1124.731,
+			"z": 2211.447
+		},
+		"shipSpawnPoint": 
+		{
+			"x": 7.518494,
+			"y": 1124.731,
+			"z": 2211.447
+		},
+		"startWithSuit": true
+	},
+	"Base" :
+	{
+		"surfaceGravity" : 12,
+		"surfaceSize" : 2500,
+		"hasMapMarker" : true,
+		"ambientLight": 1.4
+	},
+	"Orbit" :
+	{
+		"semiMajorAxis" : 75000,
+		"inclination" : 5,
+		"primaryBody" : "Carson",
+		"isMoon" : false,
+		"longitudeOfAscendingNode" : 0,
+		"eccentricity" : 0,
+		"argumentOfPeriapsis": 0,
+		"trueAnomaly" : 0,
+		"axialTilt" : 45,
+		"siderealPeriod" : 5,
+		"showOrbitLine": true
+	},
+	"Atmosphere" :
+	{
+		"hasOxygen" : false,
+		"size" : 3000,
+		"fogTint" : 
+		{
+			"r" : 255,
+			"g" : 172,
+			"b" : 38,
+			"a" : 255
+		},
+		"fogDensity": 1,
+		"fogSize": 3000,
+		"useAtmosphereShader": true,
+		"atmosphereTint" : 
+		{
+			"r" : 255,
+			"g" : 172,
+			"b" : 38,
+			"a" : 255
+		}
+	},
+	"HeightMap" :
+	{
+		"heightMap" : "planets/assets/Mirthaheightmap.png",	
+		"textureMap" : "planets/assets/Mirtha.png",	
+		"minHeight" : 2400,
+		"maxHeight" : 2500
+	}
+}

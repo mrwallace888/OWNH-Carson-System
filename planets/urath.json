@@ -35,7 +35,8 @@
 		"argumentOfPeriapsis": 102,
 		"trueAnomaly" : 270,
 		"axialTilt" : 23,
-		"siderealPeriod" : 5
+		"siderealPeriod" : 5,
+		"showOrbitLine": true
 	},
 	"Water" : {
 		"size" : 2425,
@@ -53,14 +54,21 @@
 		"size" : 3000,
 		"fogTint" : 
 		{
-			"r" : 179,
-			"g" : 255,
+			"r" : 38,
+			"g" : 161,
 			"b" : 255,
 			"a" : 255
 		},
 		"fogDensity": 1,
 		"fogSize": 3000,
-		"useAtmosphereShader": true
+		"useAtmosphereShader": true,
+		"atmosphereTint" : 
+		{
+			"r" : 38,
+			"g" : 161,
+			"b" : 255,
+			"a" : 255
+		}
 	},
 	"HeightMap" :
 	{

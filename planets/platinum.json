@@ -11,7 +11,7 @@
 	},
 	"Orbit" :
 	{
-		"semiMajorAxis" : 75000,
+		"semiMajorAxis" : 100000,
 		"inclination" : 10,
 		"primaryBody" : "Carson",
 		"isMoon" : false,
@@ -20,7 +20,8 @@
 		"argumentOfPeriapsis": 102,
 		"trueAnomaly" : 360,
 		"axialTilt" : -23,
-		"siderealPeriod" : -1
+		"siderealPeriod" : -1,
+		"showOrbitLine": true
 	},
 	"Atmosphere": {
 		"size": 4000,
@@ -46,6 +47,12 @@
 		},
 		"fogDensity": 1,
 		"fogSize": 4000,
-		"useAtmosphereShader": true
+		"useAtmosphereShader": false,
+		"atmosphereTint": {
+			"r": 145,
+			"g": 176,
+			"b": 255,
+			"a": 255
+		}
 	}
 }

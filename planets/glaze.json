@@ -1,0 +1,33 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name" : "Glaze",
+	"starSystem" : "JackFoxtrot.CarsonSystem",
+	"Base" :
+	{
+		"surfaceGravity" : 5,
+		"surfaceSize" : 500,
+		"hasMapMarker" : true,
+		"ambientLight": 1.4
+	},
+	"Orbit" :
+	{
+		"semiMajorAxis" : 10000,
+		"inclination" : -45,
+		"primaryBody" : "Platinum Hue",
+		"isMoon" : true,
+		"longitudeOfAscendingNode" : 0,
+		"eccentricity" : 0.25,
+		"argumentOfPeriapsis": 102,
+		"trueAnomaly" : 0,
+		"axialTilt" : 0,
+		"isTidallyLocked": true,
+		"showOrbitLine": true
+	},
+	"HeightMap" :
+	{
+		"heightMap" : "planets/assets/GlazeHeightmap.png",	
+		"textureMap" : "planets/assets/Glaze.png",	
+		"minHeight" : 475,
+		"maxHeight" : 500
+	}
+}

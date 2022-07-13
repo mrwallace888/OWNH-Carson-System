@@ -20,7 +20,8 @@
 		"argumentOfPeriapsis": 102,
 		"trueAnomaly" : 270,
 		"axialTilt" : 23,
-		"isTidallyLocked": true
+		"isTidallyLocked": true,
+		"showOrbitLine": true
 	},
 	"HeightMap" :
 	{
