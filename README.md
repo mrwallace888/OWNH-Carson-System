@@ -2,7 +2,7 @@
 ![](https://i.imgur.com/q5I1Wb5.png)
 The *Carson* star system is a large yellow dwarf star about halfway through its life cycle. It is 2.4 light-years away from the Sun, which our home planet *Timber Hearth* orbits. Due to its low mass, Hornfels has theorized that *Carson* won't supernova at the end of its life cycle. It is powered through the fusion of hydrogen atoms into helium. This means that instead, once it runs out of hydrogen, it'll begin to fuse the helium into heavier elements and the star will expand into a red giant, before eventually shrinking down into a white dwarf.
 
-*Carson* is currently home to 3 planets and 5 moons.
+*Carson* is currently home to 5 planets and 6 moons.
 
 ## Urath
 *Urath* is a green, Hearth-like planet, but unlike *Timber Hearth*, it has a beautiful blue ocean around its continents. *Timber Hearth* is a nice place to be, but this place seems better in a few ways. Should we start to include interstellar vacations in the *Outer Wilds Venture* program? Oh yeah, it also fathers a small tidally-locked moon that's been dubbed as *Loon*. How quaint...
@@ -24,6 +24,10 @@ The *Carson* star system is a large yellow dwarf star about halfway through its 
 *Graebur* is the gray twin of *Ekbur*. It's a little smaller and much more bumpy, with deeper craters and taller mountains compared to *Ekbur*. The composition of its stone is similar to that of the rocks here on *Timber Hearth*.
 ![](https://i.imgur.com/qnfqfMs.png)
 
+## Volcus
+*Volcus* is a volcanic planet with thick clouds. It's also very hot, due to it being so close to the sun. That, paired with what may be acidic clouds, doesn't exactly make this paradise.
+![](https://i.imgur.com/F2wWs2k.png)
+
 ## Platinum Hue
 *Platinum Hue* is a big gas giant. It has a pearlescent appearance, with the clouds containing mesmerizing pastel swirls in a beautiful sea of ivory. Nobody knows as of yet what lies beyond that enticing atmosphere...
 ![](https://i.imgur.com/KPzZ6r8.png)
@@ -35,3 +39,11 @@ The *Carson* star system is a large yellow dwarf star about halfway through its 
 ### Draeo
 *Draeo* is another moon orbiting *Platinum Hue*. It is a very dry planet without any sort of atmosphere. It has a couple properties that are vaguely similar to *Mirtha*. We might need to research this one some more.
 ![](https://i.imgur.com/Le7ogGa.png)
+
+## Scarlet Storm
+*Scarlet Storm* is another big gas giant in the system. It's a little angrier compared to *Platinum Hue*. It also has a pretty ring, but don't let that deceive you; gas giants are dangerous.
+![](https://i.imgur.com/Q3TYqys.png)
+
+### Pyer
+*Pyer* is a cloudy moon that orbits *Scarlet Storm*. It's so purple it makes my eyes hurt. But it's still kind of pretty. Please be careful when landing on this planet, and double-check that your suit's oxygen filters are closed before leaving the ship. The atmosphere is composed of hydrogen cyanide, and you wouldn't exactly want to be breathing that in.
+![](https://i.imgur.com/xXCsdaC.png}

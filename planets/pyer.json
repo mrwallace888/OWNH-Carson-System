@@ -1,0 +1,71 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name" : "Pyer",
+	"starSystem" : "JackFoxtrot.CarsonSystem",
+	"Base" :
+	{
+		"surfaceGravity" : 5,
+		"surfaceSize" : 500,
+		"hasMapMarker" : true,
+		"ambientLight": 1.4
+	},
+	"Orbit" :
+	{
+		"semiMajorAxis" : 10000,
+		"inclination" : -15,
+		"primaryBody" : "Scarlet Storm",
+		"isMoon" : true,
+		"longitudeOfAscendingNode" : 0,
+		"eccentricity" : 0,
+		"argumentOfPeriapsis": 0,
+		"trueAnomaly" : 12,
+		"axialTilt" : -12,
+		"siderealPeriod" : 5,
+		"isTidallyLocked": false,
+		"showOrbitLine": true
+	},
+	"Atmosphere" :
+	{
+		"hasOxygen" : false,
+		"size" : 900,
+		"clouds": {
+			"outerCloudRadius": 900,
+			"innerCloudRadius": 600,
+			"fluidType": "cloud",
+			"cloudsPrefab": "quantumMoon",
+			"texturePath": "planets/assets/PyerClouds.png",
+			"tint": {
+				"r": 240,
+				"g": 120,
+				"b": 255,
+				"a": 255
+			},
+			"hasLightning": false
+		},
+		"fogTint" : 
+		{
+			"r" : 240,
+			"g" : 120,
+			"b" : 255,
+			"a" : 255
+		},
+		"fogDensity": 1,
+		"fogSize": 3000,
+		"useAtmosphereShader": true,
+		"atmosphereTint" : 
+		{
+			"r" : 240,
+			"g" : 120,
+			"b" : 255,
+			"a" : 255
+		}
+		
+	},
+	"HeightMap" :
+	{
+		"heightMap" : "planets/assets/PyerHeightmap.png",	
+		"textureMap" : "planets/assets/Pyer.png",	
+		"minHeight" : 475,
+		"maxHeight" : 500
+	}
+}

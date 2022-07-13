@@ -3,5 +3,5 @@
 	"startHere" : false,
 	"destroyStockPlanets" : true,
 	"enableTimeLoop" : true,
-	"travelAudioFilePath": "systems/Eternal Moment.wav"
+	"travelAudioFilePath": "systems/Flying Through The Universe.wav"
 }

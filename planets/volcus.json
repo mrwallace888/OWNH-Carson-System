@@ -1,0 +1,70 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name" : "Volcus",
+	"starSystem" : "JackFoxtrot.CarsonSystem",
+	"Base" :
+	{
+		"surfaceGravity" : 12,
+		"surfaceSize" : 2500,
+		"hasMapMarker" : true,
+		"ambientLight": 1.4
+	},
+	"Orbit" :
+	{
+		"semiMajorAxis" : 25000,
+		"inclination" : -5,
+		"primaryBody" : "Carson",
+		"isMoon" : false,
+		"longitudeOfAscendingNode" : 0,
+		"eccentricity" : 0,
+		"argumentOfPeriapsis": 0,
+		"trueAnomaly" : -90,
+		"axialTilt" : 10,
+		"siderealPeriod" : 5,
+		"showOrbitLine": true
+	},
+	"Atmosphere" :
+	{
+		"hasOxygen" : false,
+		"size" : 3000,
+		"clouds": {
+			"outerCloudRadius": 3000,
+			"innerCloudRadius": 2700,
+			"fluidType": "cloud",
+			"cloudsPrefab": "quantumMoon",
+			"texturePath": "planets/assets/volcusclouds.png",
+			"tint": {
+				"r": 255,
+				"g": 172,
+				"b": 38,
+				"a": 255
+			},
+			"hasLightning": false
+		},
+		"fogTint" : 
+		{
+			"r" : 255,
+			"g" : 172,
+			"b" : 38,
+			"a" : 255
+		},
+		"fogDensity": 1,
+		"fogSize": 3000,
+		"useAtmosphereShader": true,
+		"atmosphereTint" : 
+		{
+			"r" : 255,
+			"g" : 172,
+			"b" : 38,
+			"a" : 255
+		}
+		
+	},
+	"HeightMap" :
+	{
+		"heightMap" : "planets/assets/volcusheightmap.png",	
+		"textureMap" : "planets/assets/volcus.png",	
+		"minHeight" : 2400,
+		"maxHeight" : 2500
+	}
+}

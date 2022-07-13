@@ -1,0 +1,68 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name" : "Scarlet Storm",
+	"starSystem" : "JackFoxtrot.CarsonSystem",
+	"Base" :
+	{
+		"surfaceGravity" : 20,
+		"surfaceSize" : 4000,
+		"hasMapMarker" : true,
+		"ambientLight": 1.4
+	},
+	"Orbit" :
+	{
+		"semiMajorAxis" : 125000,
+		"inclination" : 10,
+		"primaryBody" : "Carson",
+		"isMoon" : false,
+		"longitudeOfAscendingNode" : 72,
+		"eccentricity" : 0,
+		"argumentOfPeriapsis": 102,
+		"trueAnomaly" : 166,
+		"axialTilt" : -23,
+		"siderealPeriod" : -1,
+		"showOrbitLine": true
+	},
+	"Atmosphere": {
+		"size": 4000,
+		"clouds": {
+			"outerCloudRadius": 4000,
+			"innerCloudRadius": 3700,
+			"fluidType": "cloud",
+			"cloudsPrefab": "giantsDeep",
+			"texturePath": "planets/assets/scarlet storm.png",
+			"tint": {
+				"r": 255,
+				"g": 50,
+				"b": 0,
+				"a": 255
+			},
+			"hasLightning": true
+		},
+		"fogTint": {
+			"r": 255,
+			"g": 50,
+			"b": 0,
+			"a": 255
+		},
+		"fogDensity": 1,
+		"fogSize": 4000,
+		"useAtmosphereShader": false,
+		"atmosphereTint": {
+			"r": 255,
+			"g": 50,
+			"b": 0,
+			"a": 255
+		}
+	},
+	"Ring" :
+	{
+		"texture": "planets/assets/scarlet rings.png",
+		"unlit": false,
+		"rotationSpeed": 0,
+		"innerRadius": 5000,
+		"outerRadius": 7000,
+		"inclination": 0,
+		"longitudeOfAscendingNode": 0
+	}
+}
