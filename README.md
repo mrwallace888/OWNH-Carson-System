@@ -17,7 +17,7 @@ The *Carson* star system is a large yellow dwarf star about halfway through its 
 ![](https://i.imgur.com/twXeDKb.png)
 
 ### Ekbur
-*Ekbur* is one of two moons that orbit *Mirtha*. It is a reddish-brown color. We collected some of the rocky material from its surface, and it appears to have some interesting molecular properties. It's definitely sturdier than the rocks at home, that's for sure. Maybe we can use Ekbur's stone to improve our architectures' structural integrity?
+*Ekbur* is one of two moons that orbit *Mirtha*. It is a reddish-brown color. We collected some of the rocky material from its surface, and it appears to have some interesting molecular properties. It's definitely sturdier than the rocks at home, that's for sure. Maybe we can use *Ekbur*'s stone to improve our architectures' structural integrity?
 ![](https://i.imgur.com/Z65b2xX.png)
 
 ### Graebur
