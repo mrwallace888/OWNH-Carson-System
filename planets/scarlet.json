@@ -57,7 +57,7 @@
 	},
 	"Ring" :
 	{
-		"texture": "planets/assets/scarlet rings.png",
+		"texture": "planets/assets/scarlet storm rings.png",
 		"unlit": false,
 		"rotationSpeed": 0,
 		"innerRadius": 5000,
