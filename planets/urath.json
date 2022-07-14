@@ -5,15 +5,15 @@
 	"Spawn": {
 		"playerSpawnPoint": 
 		{
-			"x": 7.518494,
-			"y": 1124.731,
-			"z": 2211.447
+			"x": -1818.921,
+			"y": 1520.175,
+			"z": 543.1451
 		},
 		"shipSpawnPoint": 
 		{
-			"x": 7.518494,
-			"y": 1124.731,
-			"z": 2211.447
+			"x": -1818.921,
+			"y": 1520.175,
+			"z": 543.1451
 		},
 		"startWithSuit": true
 	},
@@ -39,12 +39,12 @@
 		"showOrbitLine": true
 	},
 	"Water" : {
-		"size" : 2425,
+		"size" : 2412.5,
 		"tint" :
 		{
-			"r" : 17,
-			"g" : 90,
-			"b" : 209,
+			"r" : 9,
+			"g" : 50,
+			"b" : 77,
 			"a" : 255
 		}
 	},
@@ -72,8 +72,8 @@
 	},
 	"HeightMap" :
 	{
-		"heightMap" : "planets/assets/camineheightmap3.png",	
-		"textureMap" : "planets/assets/camine4ktest.png",	
+		"heightMap" : "planets/assets/urathtest2heightmap.png",	
+		"textureMap" : "planets/assets/urathtest2.png",	
 		"minHeight" : 2400,
 		"maxHeight" : 2500
 	}

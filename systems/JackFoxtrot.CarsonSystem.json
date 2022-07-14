@@ -3,5 +3,5 @@
 	"startHere" : false,
 	"destroyStockPlanets" : true,
 	"enableTimeLoop" : true,
-	"travelAudioFilePath": "systems/Flying Through The Universe.wav"
+	"travelAudioFilePath": "systems/Orion.wav"
 }

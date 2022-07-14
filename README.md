@@ -2,15 +2,15 @@
 ![](https://i.imgur.com/q5I1Wb5.png)
 The *Carson* star system is a large yellow dwarf star about halfway through its life cycle. It is 2.4 light-years away from the Sun, which our home planet *Timber Hearth* orbits. Due to its low mass, Hornfels has theorized that *Carson* won't supernova at the end of its life cycle. It is powered through the fusion of hydrogen atoms into helium. This means that instead, once it runs out of hydrogen, it'll begin to fuse the helium into heavier elements and the star will expand into a red giant, before eventually shrinking down into a white dwarf.
 
-*Carson* is currently home to 5 planets and 6 moons.
+*Carson* is currently home to 6 planets and 6 moons.
 
 ## Urath
 *Urath* is a green, Hearth-like planet, but unlike *Timber Hearth*, it has a beautiful blue ocean around its continents. *Timber Hearth* is a nice place to be, but this place seems better in a few ways. Should we start to include interstellar vacations in the *Outer Wilds Venture* program? Oh yeah, it also fathers a small tidally-locked moon that's been dubbed as *Loon*. How quaint...
-![](https://i.imgur.com/i6DV40R.png)
+![](https://i.imgur.com/t6GiiaD.png)
 
 ### Loon
 *Loon* is a cute little rock hurtling around *Urath*. Full of craters and rocky riverbeds. It almost reminds me of the *Attlerock* back at home. Only difference being that it doesn't look like it had a massive chunk bitten out of it. I bet Esker might enjoy this place a little.
-![](https://i.imgur.com/YupcsUU.png)
+![](https://i.imgur.com/LZfD4r4.png)
 
 ## Mirtha
 *Mirtha*, which Riebeck has nicknamed "Red Hell", is a red, dry desert with a thin, airless atmosphere. Some of the red dust from the planet has been kicked up into the atmosphere by small gusts of wind, helping to create a yellowish sky. Even if it was an oxygen-rich atmosphere, I would've recommended using the suit's oxygen anyways since having the oxygen filters opened up on a planet like this could clog them full of dust and debris and drastically reduce their efficiency. And trust me, those oxygen filters are *not* fun to clean out.
@@ -23,6 +23,10 @@ The *Carson* star system is a large yellow dwarf star about halfway through its 
 ### Graebur
 *Graebur* is the gray twin of *Ekbur*. It's a little smaller and much more bumpy, with deeper craters and taller mountains compared to *Ekbur*. The composition of its stone is similar to that of the rocks here on *Timber Hearth*.
 ![](https://i.imgur.com/qnfqfMs.png)
+
+## Alpinia
+*Alpinia* is an alpine planet, with fairly chilly temperatures and a beautiful ring. The oceans are dark and the grass is a duller shade of green, but it's pretty in its own right. It's definitely more preferable than *Mirtha*, at least.
+![](https://i.imgur.com/BivAagt.png)
 
 ## Volcus
 *Volcus* is a volcanic planet with thick clouds. It's also very hot, due to it being so close to the sun. That, paired with what may be acidic clouds, doesn't exactly make this paradise.

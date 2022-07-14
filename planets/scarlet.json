@@ -11,7 +11,7 @@
 	},
 	"Orbit" :
 	{
-		"semiMajorAxis" : 125000,
+		"semiMajorAxis" : 150000,
 		"inclination" : 10,
 		"primaryBody" : "Carson",
 		"isMoon" : false,
