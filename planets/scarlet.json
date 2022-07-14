@@ -58,8 +58,9 @@
 	"Ring" :
 	{
 		"texture": "planets/assets/scarlet rings.png",
+		"fluidType": "sand",
 		"unlit": false,
-		"rotationSpeed": 0,
+		"rotationSpeed": -6,
 		"innerRadius": 5000,
 		"outerRadius": 7000,
 		"inclination": 0,

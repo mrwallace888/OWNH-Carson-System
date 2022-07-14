@@ -65,6 +65,7 @@
 	"Ring" :
 	{
 		"texture": "planets/assets/alpinia rings.png",
+		"fluidType": "sand",
 		"unlit": false,
 		"rotationSpeed": 1.2,
 		"innerRadius": 3000,

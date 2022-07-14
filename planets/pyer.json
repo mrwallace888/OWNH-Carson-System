@@ -50,7 +50,7 @@
 			"a" : 255
 		},
 		"fogDensity": 1,
-		"fogSize": 3000,
+		"fogSize": 900,
 		"useAtmosphereShader": true,
 		"atmosphereTint" : 
 		{

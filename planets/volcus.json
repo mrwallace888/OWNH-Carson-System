@@ -23,6 +23,10 @@
 		"siderealPeriod" : 5,
 		"showOrbitLine": true
 	},
+	"Lava":
+    {
+        "size": 2475
+    },
 	"Atmosphere" :
 	{
 		"hasOxygen" : false,
