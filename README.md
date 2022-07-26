@@ -19,10 +19,6 @@ The *Carson* star system is a large yellow dwarf star about halfway through its 
 *Mirtha*, which Riebeck has nicknamed "Red Hell", is a red, dry desert with a thin, airless atmosphere. Some of the red dust from the planet has been kicked up into the atmosphere by small gusts of wind, helping to create a yellowish sky. Even if it was an oxygen-rich atmosphere, I would've recommended using the suit's oxygen anyways since having the oxygen filters opened up on a planet like this could clog them full of dust and debris and drastically reduce their efficiency. And trust me, those oxygen filters are *not* fun to clean out.
 ![](https://i.imgur.com/o8R5aTO.png)
 
-## Dester
-*Dester* is a desert planet. Think of it as the bigger brother of *Ash Twin*; if *Dester* was the long, distant relative from across space that doesn't even share the same parent star as *Ash Twin* nor have the same origins. Still a pretty nice place and plenty of cacti to go around.
-![](https://i.imgur.com/OkbAyXv.png)
-
 ### Ekbur
 *Ekbur* is one of two moons that orbit *Mirtha*. It is a reddish-brown color. We collected some of the rocky material from its surface, and it appears to have some interesting molecular properties. It's definitely sturdier than the rocks at home, that's for sure. Maybe we can use *Ekbur*'s stone to improve our architectures' structural integrity?
 ![](https://i.imgur.com/Bg5YSSJ.png)
@@ -30,6 +26,10 @@ The *Carson* star system is a large yellow dwarf star about halfway through its 
 ### Graebur
 *Graebur* is the gray twin of *Ekbur*. It's a little smaller and much more bumpy, with deeper craters and taller mountains compared to *Ekbur*. The composition of its stone is similar to that of the rocks here on *Timber Hearth*.
 ![](https://i.imgur.com/rXZQJHE.png)
+
+## Dester
+*Dester* is a desert planet. Think of it as the bigger brother of *Ash Twin*; if *Dester* was the long, distant relative from across space that doesn't even share the same parent star as *Ash Twin* nor have the same origins. Still a pretty nice place and plenty of cacti to go around.
+![](https://i.imgur.com/OkbAyXv.png)
 
 ## Alpinia
 *Alpinia* is an alpine planet, with fairly chilly temperatures and a beautiful ring. The oceans are dark and the grass is a duller shade of green, but it's pretty in its own right. It's definitely more preferable than *Mirtha*, at least.
