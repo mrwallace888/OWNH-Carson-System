@@ -29,6 +29,7 @@
 		"heightMap" : "planets/assets/EkburHeightmap.png",	
 		"textureMap" : "planets/assets/Ekbur.png",	
 		"minHeight" : 200,
-		"maxHeight" : 250
+		"maxHeight" : 250,
+		"resolution": 1024
 	}
 }

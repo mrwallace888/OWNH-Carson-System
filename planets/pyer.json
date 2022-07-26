@@ -1,5 +1,5 @@
 {
-	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/dev/NewHorizons/Schemas/body_schema.json",
 	"name" : "Pyer",
 	"starSystem" : "JackFoxtrot.CarsonSystem",
 	"Base" :
@@ -28,6 +28,7 @@
 	{
 		"hasOxygen" : false,
 		"size" : 900,
+		"hasRain": true,
 		"clouds": {
 			"outerCloudRadius": 900,
 			"innerCloudRadius": 600,
@@ -49,6 +50,7 @@
 			"b" : 255,
 			"a" : 255
 		},
+		"atmosphereSunIntensity": 1,
 		"fogDensity": 1,
 		"fogSize": 900,
 		"useAtmosphereShader": true,
@@ -66,6 +68,7 @@
 		"heightMap" : "planets/assets/PyerHeightmap.png",	
 		"textureMap" : "planets/assets/Pyer.png",	
 		"minHeight" : 475,
-		"maxHeight" : 500
+		"maxHeight" : 500,
+		"resolution": 1024
 	}
 }

@@ -29,6 +29,7 @@
 		"heightMap" : "planets/assets/DraeoHeightmap.png",	
 		"textureMap" : "planets/assets/Draeo.png",	
 		"minHeight" : 475,
-		"maxHeight" : 500
+		"maxHeight" : 500,
+		"resolution": 1024
 	}
 }

@@ -1,5 +1,5 @@
 {
-	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/dev/NewHorizons/Schemas/body_schema.json",
 	"name" : "Volcus",
 	"starSystem" : "JackFoxtrot.CarsonSystem",
 	"Base" :
@@ -25,7 +25,7 @@
 	},
 	"Lava":
     {
-        "size": 2475
+        "size": 2370
     },
 	"Atmosphere" :
 	{
@@ -52,6 +52,7 @@
 			"b" : 38,
 			"a" : 255
 		},
+		"atmosphereSunIntensity": 1,
 		"fogDensity": 1,
 		"fogSize": 3000,
 		"useAtmosphereShader": true,
@@ -68,7 +69,8 @@
 	{
 		"heightMap" : "planets/assets/volcusheightmap.png",	
 		"textureMap" : "planets/assets/volcus.png",	
-		"minHeight" : 2400,
-		"maxHeight" : 2500
+		"minHeight" : 2250,
+		"maxHeight" : 2500,
+		"resolution": 1024
 	}
 }

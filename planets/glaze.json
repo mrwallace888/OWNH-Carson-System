@@ -21,13 +21,15 @@
 		"trueAnomaly" : 0,
 		"axialTilt" : 0,
 		"isTidallyLocked": true,
-		"showOrbitLine": true
+		"showOrbitLine": true,
+		"alignmentAxis": {"x": -1, "y": 0, "z": 0}
 	},
 	"HeightMap" :
 	{
 		"heightMap" : "planets/assets/GlazeHeightmap.png",	
 		"textureMap" : "planets/assets/Glaze.png",	
 		"minHeight" : 475,
-		"maxHeight" : 500
+		"maxHeight" : 500,
+		"resolution": 1024
 	}
 }

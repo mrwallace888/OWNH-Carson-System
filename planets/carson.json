@@ -33,9 +33,9 @@
 		"lightRadius": 500000,
 		"tint" : 
 		{
-			"r" : 245,
-			"g" : 197,
-			"b" : 126,
+			"r" : 446,
+			"g" : 291,
+			"b" : 135,
 			"a" : 255
 		},
 		"lightTint" : 
@@ -45,7 +45,7 @@
 			"b" : 255,
 			"a" : 255
 		},
-		"solarLuminosity" : 0.8,
+		"solarLuminosity" : 1.0,
 		"goSupernova": false
 	}
 }

@@ -1,5 +1,5 @@
 {
-	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/dev/NewHorizons/Schemas/body_schema.json",
 	"name" : "Scarlet Storm",
 	"starSystem" : "JackFoxtrot.CarsonSystem",
 	"Base" :
@@ -11,7 +11,7 @@
 	},
 	"Orbit" :
 	{
-		"semiMajorAxis" : 150000,
+		"semiMajorAxis" : 175000,
 		"inclination" : 10,
 		"primaryBody" : "Carson",
 		"isMoon" : false,
@@ -45,6 +45,7 @@
 			"b": 0,
 			"a": 255
 		},
+		"atmosphereSunIntensity": 1,
 		"fogDensity": 1,
 		"fogSize": 4000,
 		"useAtmosphereShader": false,

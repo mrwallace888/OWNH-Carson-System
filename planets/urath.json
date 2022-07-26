@@ -1,19 +1,19 @@
 {
-	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/dev/NewHorizons/Schemas/body_schema.json",
 	"name" : "Urath",
 	"starSystem" : "JackFoxtrot.CarsonSystem",
 	"Spawn": {
 		"playerSpawnPoint": 
 		{
-			"x": -1818.921,
-			"y": 1520.175,
-			"z": 543.1451
+			"x": 2153.903,
+			"y": -432.6272,
+			"z": 993.0703
 		},
 		"shipSpawnPoint": 
 		{
-			"x": -1818.921,
-			"y": 1520.175,
-			"z": 543.1451
+			"x": 2153.903,
+			"y": -432.6272,
+			"z": 993.0703
 		},
 		"startWithSuit": true
 	},
@@ -39,12 +39,12 @@
 		"showOrbitLine": true
 	},
 	"Water" : {
-		"size" : 2412.5,
+		"size" : 2396,
 		"tint" :
 		{
-			"r" : 9,
-			"g" : 50,
-			"b" : 77,
+			"r" : 13,
+			"g" : 68,
+			"b" : 99,
 			"a" : 255
 		}
 	},
@@ -55,26 +55,38 @@
 		"fogTint" : 
 		{
 			"r" : 38,
-			"g" : 161,
+			"g" : 132,
 			"b" : 255,
 			"a" : 255
 		},
+		"atmosphereSunIntensity": 1,
 		"fogDensity": 1,
 		"fogSize": 3000,
 		"useAtmosphereShader": true,
 		"atmosphereTint" : 
 		{
 			"r" : 38,
-			"g" : 161,
+			"g" : 132,
 			"b" : 255,
 			"a" : 255
 		}
 	},
 	"HeightMap" :
 	{
-		"heightMap" : "planets/assets/urathtest2heightmap.png",	
-		"textureMap" : "planets/assets/urathtest2.png",	
-		"minHeight" : 2400,
-		"maxHeight" : 2500
+		"heightMap" : "planets/assets/urathheightmap.png",	
+		"textureMap" : "planets/assets/urath.png",	
+		"minHeight" : 2250,
+		"maxHeight" : 2500,
+		"resolution": 1024
+	},
+	"Props": {
+		"scatter": [
+			{
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_Surface/Surface_AlpineClump_L/Q_AlpineClump_L/BatchedGroup",
+				"count": 500,
+				"minHeight": 2410,
+				"maxHeight": 2500
+			}
+		]
 	}
 }

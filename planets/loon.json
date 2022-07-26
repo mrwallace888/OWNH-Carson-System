@@ -19,15 +19,17 @@
 		"eccentricity" : 0,
 		"argumentOfPeriapsis": 102,
 		"trueAnomaly" : 270,
-		"axialTilt" : 23,
+		"axialTilt" : 0,
 		"isTidallyLocked": true,
-		"showOrbitLine": true
+		"showOrbitLine": true,
+		"alignmentAxis": {"x": -1, "y": 0, "z": 0}
 	},
 	"HeightMap" :
 	{
-		"heightMap" : "planets/assets/loon3heightmap.png",	
-		"textureMap" : "planets/assets/loon3.png",	
+		"heightMap" : "planets/assets/loonheightmap.png",	
+		"textureMap" : "planets/assets/loon.png",	
 		"minHeight" : 450,
-		"maxHeight" : 500
+		"maxHeight" : 500,
+		"resolution": 1024
 	}
 }

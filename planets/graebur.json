@@ -29,6 +29,7 @@
 		"heightMap" : "planets/assets/GraeburHeightmap.png",	
 		"textureMap" : "planets/assets/Graebur.png",	
 		"minHeight" : 150,
-		"maxHeight" : 250
+		"maxHeight" : 250,
+		"resolution": 1024
 	}
 }
