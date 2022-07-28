@@ -32,6 +32,7 @@
 		"hasOxygen" : false,
 		"size" : 3000,
 		"clouds": {
+			"rotationSpeed": 0,
 			"outerCloudRadius": 3000,
 			"innerCloudRadius": 2700,
 			"fluidType": "cloud",

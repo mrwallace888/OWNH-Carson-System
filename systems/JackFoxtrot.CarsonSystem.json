@@ -1,7 +1,17 @@
 {
 	"canEnterViaWarpDrive" : true,
+	"Skybox": {
+		"destroyStarField": true,
+		"useCube": true,
+		"rightPath": "systems/skybox/right.png",
+		"leftPath": "systems/skybox/left.png",
+		"topPath": "systems/skybox/top.png",
+		"bottomPath": "systems/skybox/bottom.png",
+		"frontPath": "systems/skybox/front.png",
+		"backPath": "systems/skybox/back.png"
+	},
 	"startHere" : false,
 	"destroyStockPlanets" : true,
-	"enableTimeLoop" : true,
-	"travelAudioFilePath": "systems/Infinite Discoveries.wav"
+	"enableTimeLoop" : false,
+	"travelAudioFilePath": "systems/Carson.wav"
 }

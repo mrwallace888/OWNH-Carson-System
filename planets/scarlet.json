@@ -20,12 +20,13 @@
 		"argumentOfPeriapsis": 102,
 		"trueAnomaly" : 166,
 		"axialTilt" : -23,
-		"siderealPeriod" : -1,
+		"siderealPeriod" : 10,
 		"showOrbitLine": true
 	},
 	"Atmosphere": {
 		"size": 4000,
 		"clouds": {
+			"rotationSpeed": 0,
 			"outerCloudRadius": 4000,
 			"innerCloudRadius": 3700,
 			"fluidType": "cloud",
@@ -61,7 +62,7 @@
 		"texture": "planets/assets/scarlet rings.png",
 		"fluidType": "sand",
 		"unlit": false,
-		"rotationSpeed": -6,
+		"rotationSpeed": 0.6,
 		"innerRadius": 5000,
 		"outerRadius": 7000,
 		"inclination": 0,

@@ -30,6 +30,7 @@
 		"size" : 900,
 		"hasRain": true,
 		"clouds": {
+			"rotationSpeed": 0,
 			"outerCloudRadius": 900,
 			"innerCloudRadius": 600,
 			"fluidType": "cloud",
