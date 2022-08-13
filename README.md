@@ -8,7 +8,7 @@ The *Carson* star system is a large yellow dwarf star about halfway through its 
 *Carson* is currently home to 7 planets and 6 moons.
 
 ## Urath
-*Urath* is a green, Hearth-like planet, but unlike *Timber Hearth*, it has a beautiful blue ocean around its continents. There's also an abundance of trees so you'll neer asphyxiate. Might make for a good campsite. *Timber Hearth* is a nice place to be, but this place seems better in a few ways. Should we start to include interstellar vacations in the *Outer Wilds Venture* program? Oh yeah, it also fathers a small tidally-locked moon that's been dubbed as *Loon*. How quaint...
+*Urath* is a green, Hearth-like planet, but unlike *Timber Hearth*, it has a beautiful blue ocean around its continents. There's also an abundance of trees so you'll never asphyxiate. Might make for a good campsite. *Timber Hearth* is a nice place to be, but this place seems better in a few ways. Should we start to include interstellar vacations in the *Outer Wilds Venture* program? Oh yeah, it also fathers a small tidally-locked moon that's been dubbed as *Loon*. How quaint...
 ![](https://i.imgur.com/m9cJY5Y.png)
 
 ### Loon
