@@ -2,59 +2,63 @@
 Carson has a longer loading time than most other systems. Please be patient and just give it an extra minute or two, and don't fret if the program freezes.
 
 # Carson System
+![carson](https://user-images.githubusercontent.com/39398330/187900130-494fac0e-6e96-4b27-93a7-e5abf75ac30d.png)
+Welcome to *Carson*, a star system 2.4 lightyears away from the Sun. Shortly after Outer Wilds Ventures repurposed ancient Nomai warp technology to travel to other stars, Carson was at one point discovered and is currently being researched.
+
+
 ![](https://i.imgur.com/UUoC8M3.png)
-The *Carson* star system is a large yellow dwarf star about halfway through its life cycle. It is 2.4 light-years away from the Sun, which our home planet *Timber Hearth* orbits. Due to its low mass, Hornfels has theorized that *Carson* won't supernova at the end of its life cycle. It is powered through the fusion of hydrogen atoms into helium. This means that instead, once it runs out of hydrogen, it'll begin to fuse the helium into heavier elements and the star will expand into a red giant, before eventually shrinking down into a white dwarf.
+*Carson* is a large yellow dwarf star about halfway through its life cycle. Instead of going supernova like most other stars, once it runs out of hydrogen, it'll begin to fuse the helium into heavier elements and the star will expand into a red giant, before eventually shrinking down into a white dwarf.
 
 *Carson* is currently home to 7 planets and 6 moons.
 
 ## Urath
-*Urath* is a green, Hearth-like planet, but unlike *Timber Hearth*, it has a beautiful blue ocean around its continents. There's also an abundance of trees so you'll never asphyxiate. Might make for a good campsite. *Timber Hearth* is a nice place to be, but this place seems better in a few ways. Should we start to include interstellar vacations in the *Outer Wilds Venture* program? Oh yeah, it also fathers a small tidally-locked moon that's been dubbed as *Loon*. How quaint...
+*Urath* is a green, Hearth-like planet. It's got beautiful oceans for all to see, and fathers a quaint little moon named *Loon*.
 ![](https://i.imgur.com/m9cJY5Y.png)
 
 ### Loon
-*Loon* is a cute little rock hurtling around *Urath*. Full of craters and rocky riverbeds. It almost reminds me of the *Attlerock* back at home. Only difference being that it doesn't look like it had a massive chunk bitten out of it. I bet Esker might enjoy this place a little.
+*Loon* is the quaint little moon hurtling around *Urath*. It's full of craters and riverbeds, some of which may have potentially had lava a long time ago.
 ![](https://i.imgur.com/82Ll8T8.png)
 
 ## Mirtha
-*Mirtha*, which Riebeck has nicknamed "Red Hell", is a red, dry desert with a thin, airless atmosphere. Some of the red dust from the planet has been kicked up into the atmosphere by small gusts of wind, helping to create a yellowish sky. Even if it was an oxygen-rich atmosphere, I would've recommended using the suit's oxygen anyways since having the oxygen filters opened up on a planet like this could clog them full of dust and debris and drastically reduce their efficiency. And trust me, those oxygen filters are *not* fun to clean out.
+*Mirtha* is a red, dusty planet. The atmosphere is rather thin, but it has the potential of being terraformed by melting the polar ice caps.
 ![](https://i.imgur.com/o8R5aTO.png)
 
 ### Ekbur
-*Ekbur* is one of two moons that orbit *Mirtha*. It is a reddish-brown color. We collected some of the rocky material from its surface, and it appears to have some interesting molecular properties. It's definitely sturdier than the rocks at home, that's for sure. Maybe we can use *Ekbur*'s stone to improve our architectures' structural integrity?
+*Ekbur* is one of two moons that orbit *Mirtha*. It is a reddish-brown color and duels often with *Graebur*.
 ![](https://i.imgur.com/Bg5YSSJ.png)
 
 ### Graebur
-*Graebur* is the gray twin of *Ekbur*. It's a little smaller and much more bumpy, with deeper craters and taller mountains compared to *Ekbur*. The composition of its stone is similar to that of the rocks here on *Timber Hearth*.
+*Graebur* is the gray twin of *Ekbur*. It's a little smaller and much more varied, with deeper craters and taller mountains compared to *Ekbur*. The composition of its stone is heavily durable and holds interesting properties. This moon should be investigated more.
 ![](https://i.imgur.com/rXZQJHE.png)
 
 ## Dester
-*Dester* is a desert planet. Think of it as the bigger brother of *Ash Twin*; if *Dester* was the long, distant relative from across space that doesn't even share the same parent star as *Ash Twin* nor have the same origins. Still a pretty nice place and plenty of cacti to go around.
+*Dester* is a desert planet. It has plenty of cacti to go around. Make sure to clean any sand out of the suit's oxygen filters.
 ![](https://i.imgur.com/OkbAyXv.png)
 
 ## Alpinia
-*Alpinia* is an alpine planet, with fairly chilly temperatures and a beautiful ring. The oceans are dark and the grass is a duller shade of green, but it's pretty in its own right. It's definitely more preferable than *Mirtha*, at least.
+*Alpinia* is an alpine planet, with fairly chilly temperatures and a beautiful ring. The oceans are dark and the grass is a dull shade, but it's pretty in its own right.
 ![](https://i.imgur.com/vj6YXs4.png)
 
 ## Volcus
-*Volcus* is a volcanic planet with thick clouds. It's also very hot, due to it being so close to the sun. That, paired with what may be acidic clouds, doesn't exactly make this paradise.
+*Volcus* is a volcanic planet with thick clouds. It's also very hot, due to it being so close to the sun. Good luck surviving here.
 ![](https://i.imgur.com/F2wWs2k.png)
 
 ## Platinum Hue
-*Platinum Hue* is a big gas giant. It has a pearlescent appearance, with the clouds containing mesmerizing pastel swirls in a beautiful sea of ivory. Nobody knows as of yet what lies beyond that enticing atmosphere...
+*Platinum Hue* is a big gas giant. It has a pearlescent appearance, with the clouds containing mesmerizing pastel swirls in a beautiful sea of ivory. Nobody knows as of yet what lies beyond the enticing atmosphere, but it's highly recommended not to find out until further research is made.
 ![](https://i.imgur.com/KPzZ6r8.png)
 
 ### Glaze
-*Glaze* is one of the moons from *Platinum Hue*. It's essentially just one big ice cube—...erm... Sorry, ice *sphere*. It has frozen cracks and rivers.
+*Glaze* is one of the moons from *Platinum Hue*. It's a frozen rock of ice with many canyons and valleys.
 ![](https://i.imgur.com/cMhnWBY.png)
 
 ### Draeo
-*Draeo* is another moon orbiting *Platinum Hue*. It is a very dry planet without any sort of atmosphere. It has a couple properties that are vaguely similar to *Mirtha*. We might need to research this one some more.
+*Draeo* is another moon orbiting *Platinum Hue*. It is a very dry planet without any sort of atmosphere, but samples could prove useful for research.
 ![](https://i.imgur.com/AFtmnI2.png)
 
 ## Scarlet Storm
-*Scarlet Storm* is another big gas giant in the system. It's a little angrier compared to *Platinum Hue*. It also has a pretty ring, but don't let that deceive you; gas giants are dangerous.
+*Scarlet Storm* is another big gas giant in the system. It has a more aggressive shade of color, with a large ring adding onto its frightening appearance. It's highly recommended not to explore this until further research is made.
 ![](https://i.imgur.com/Q3TYqys.png)
 
 ### Pyer
-*Pyer* is a cloudy moon that orbits *Scarlet Storm*. It's so purple it makes my eyes hurt. But it's still kind of pretty. Please be careful when landing on this planet, and double-check that your suit's oxygen filters are closed before leaving the ship. The atmosphere is composed of hydrogen cyanide, and you wouldn't exactly want to be breathing that in.
+*Pyer* is a cloudy moon that orbits *Scarlet Storm*. The atmosphere is composed of hydrogen cyanide. Take extreme caution when exploring.
 ![](https://i.imgur.com/xXCsdaC.png)
