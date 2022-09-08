@@ -36,17 +36,16 @@
 	"Atmosphere" :
 	{
 		"hasOxygen" : true,
-		"size" : 3000,
-		"fogTint" : 
-		{
-			"r" : 143,
-			"g" : 206,
-			"b" : 255,
-			"a" : 255
+		"size" : 2650,
+		"hasSnow": true,
+		"clouds": {
+			"rotationSpeed": 0.25,
+			"outerCloudRadius": 2550,
+			"fluidType": "cloud",
+			"cloudsPrefab": "transparent",
+			"texturePath": "planets/assets/alpineclouds.png"
 		},
 		"atmosphereSunIntensity": 1,
-		"fogDensity": 1,
-		"fogSize": 3000,
 		"useAtmosphereShader": true,
 		"atmosphereTint" : 
 		{
@@ -64,13 +63,24 @@
 		"maxHeight" : 2500,
 		"resolution": 1024
 	},
+	"Volumes": {
+		"audioVolumes": [
+			{
+				"audio": "planets/environments/alpinia.wav",
+				"track": "environment",
+				"radius": 2650,
+				"loop": true
+			}
+		]
+	},
 	"Props": {
 		"scatter": [
 			{
 				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_Surface/Surface_AlpineClump_L/Q_AlpineClump_L/BatchedGroup",
 				"count": 500,
 				"minHeight": 2355,
-				"maxHeight": 2500
+				"maxHeight": 2500,
+				"preventOverlap": false
 			}
 		]
 	},
@@ -84,5 +94,12 @@
 		"outerRadius": 6000,
 		"inclination": 0,
 		"longitudeOfAscendingNode": 0
+	},
+	"ShipLog" : {
+		"spriteFolder": "planets/assets/icons",
+		"mapMode" : {
+			"revealedSprite": "planets/assets/icons/alpinia.png",
+			"scale": 0.625
+		}
 	}
 }

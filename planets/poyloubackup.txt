@@ -1,0 +1,13 @@
+"Lava" : {
+		"size" : 2210,
+		"tint" :
+		{
+			"r" : 510,
+			"g" : 366,
+			"b" : 0,
+			"a" : 255
+		}
+	},
+	"removeChildren": [
+		"Sector/MoltenCore/DestructionVolume"
+	],

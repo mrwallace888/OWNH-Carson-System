@@ -3,15 +3,15 @@
 	"Skybox": {
 		"destroyStarField": true,
 		"useCube": true,
-		"rightPath": "systems/skybox/right.png",
-		"leftPath": "systems/skybox/left.png",
-		"topPath": "systems/skybox/top.png",
-		"bottomPath": "systems/skybox/bottom.png",
-		"frontPath": "systems/skybox/front.png",
-		"backPath": "systems/skybox/back.png"
+		"rightPath": "systems/milkywaydark/sky_neg_z.jpg",
+		"leftPath": "systems/milkywaydark/sky_pos_z.jpg",
+		"topPath": "systems/milkywaydark/sky_pos_y.jpg",
+		"bottomPath": "systems/milkywaydark/sky_neg_y.jpg",
+		"frontPath": "systems/milkywaydark/sky_pos_x.jpg",
+		"backPath": "systems/milkywaydark/sky_neg_x.jpg"
 	},
 	"startHere" : false,
 	"destroyStockPlanets" : true,
 	"enableTimeLoop" : false,
-	"travelAudioFilePath": "systems/Carson.wav"
+	"travelAudioFilePath": "systems/Pale Blue Dot.wav"
 }

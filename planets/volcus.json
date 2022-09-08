@@ -1,5 +1,5 @@
 {
-	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/dev/NewHorizons/Schemas/body_schema.json",
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
 	"name" : "Volcus",
 	"starSystem" : "JackFoxtrot.CarsonSystem",
 	"Base" :
@@ -30,11 +30,12 @@
 	"Atmosphere" :
 	{
 		"hasOxygen" : false,
-		"size" : 3000,
+		"size" : 2900,
+		"hasSnow": true,
 		"clouds": {
 			"rotationSpeed": 0,
-			"outerCloudRadius": 3000,
-			"innerCloudRadius": 2700,
+			"outerCloudRadius": 2900,
+			"innerCloudRadius": 2600,
 			"fluidType": "cloud",
 			"cloudsPrefab": "quantumMoon",
 			"texturePath": "planets/assets/volcusclouds.png",
@@ -54,9 +55,9 @@
 			"a" : 255
 		},
 		"atmosphereSunIntensity": 1,
-		"fogDensity": 1,
-		"fogSize": 3000,
-		"useAtmosphereShader": true,
+		"fogDensity": 3,
+		"fogSize": 2600,
+		"useAtmosphereShader": false,
 		"atmosphereTint" : 
 		{
 			"r" : 255,
@@ -73,5 +74,12 @@
 		"minHeight" : 2250,
 		"maxHeight" : 2500,
 		"resolution": 1024
+	},
+	"ShipLog" : {
+		"spriteFolder": "planets/assets/icons",
+		"mapMode" : {
+			"revealedSprite": "planets/assets/icons/volcus.png",
+			"scale": 0.625
+		}
 	}
 }

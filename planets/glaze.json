@@ -31,5 +31,12 @@
 		"minHeight" : 475,
 		"maxHeight" : 500,
 		"resolution": 1024
+	},
+	"ShipLog" : {
+		"spriteFolder": "planets/assets/icons",
+		"mapMode" : {
+			"revealedSprite": "planets/assets/icons/glaze.png",
+			"scale": 0.3125
+		}
 	}
 }

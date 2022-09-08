@@ -34,7 +34,7 @@
 			"texturePath": "planets/assets/scarlet storm.png",
 			"tint": {
 				"r": 255,
-				"g": 50,
+				"g": 0,
 				"b": 0,
 				"a": 255
 			},
@@ -42,13 +42,13 @@
 		},
 		"fogTint": {
 			"r": 255,
-			"g": 50,
+			"g": 100,
 			"b": 0,
 			"a": 255
 		},
 		"atmosphereSunIntensity": 1,
-		"fogDensity": 1,
-		"fogSize": 4000,
+		"fogDensity": 0.5,
+		"fogSize": 3700,
 		"useAtmosphereShader": false,
 		"atmosphereTint": {
 			"r": 255,
@@ -56,6 +56,32 @@
 			"b": 0,
 			"a": 255
 		}
+	},
+	"Volumes": {
+		"notificationVolumes": [
+			{
+				"radius": 3700,
+				"entryNotification": {
+					"displayMessage": "WARNING: EXTREME WEATHER DETECTED, CONTINUE CAUTIOUSLY",
+					"duration": 10
+				},
+				"target": "ship"
+			}
+		],
+		"audioVolumes": [
+			{
+				"audio": "planets/environments/gasgiant2.wav",
+				"track": "environment",
+				"radius": 3700,
+				"loop": true
+			},
+			{
+				"audio": "planets/environments/fx/gasgiantentrance.wav",
+				"track": "environmentUnfiltered",
+				"radius": 4000,
+				"loop": false
+			}
+		]
 	},
 	"Ring" :
 	{
@@ -67,5 +93,11 @@
 		"outerRadius": 7000,
 		"inclination": 0,
 		"longitudeOfAscendingNode": 0
+	},
+	"ShipLog" : {
+		"spriteFolder": "planets/assets/icons",
+		"mapMode" : {
+			"revealedSprite": "planets/assets/icons/scarlet storm.png"
+		}
 	}
 }

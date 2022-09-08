@@ -52,8 +52,8 @@
 			"a" : 255
 		},
 		"atmosphereSunIntensity": 1,
-		"fogDensity": 1,
-		"fogSize": 900,
+		"fogDensity": 6,
+		"fogSize": 600,
 		"useAtmosphereShader": true,
 		"atmosphereTint" : 
 		{
@@ -71,5 +71,24 @@
 		"minHeight" : 475,
 		"maxHeight" : 500,
 		"resolution": 1024
+	},
+	"Volumes": {
+		"notificationVolumes": [
+			{
+				"radius": 600,
+				"entryNotification": {
+					"displayMessage": "WARNING: CORROSIVE WEATHER DETECTED, CONTINUE CAUTIOUSLY",
+					"duration": 10
+				},
+				"target": "ship"
+			}
+		]
+	},
+	"ShipLog" : {
+		"spriteFolder": "planets/assets/icons",
+		"mapMode" : {
+			"revealedSprite": "planets/assets/icons/pyer.png",
+			"scale": 0.3125
+		}
 	}
 }

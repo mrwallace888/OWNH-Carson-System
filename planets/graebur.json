@@ -31,5 +31,12 @@
 		"minHeight" : 150,
 		"maxHeight" : 250,
 		"resolution": 1024
+	},
+	"ShipLog" : {
+		"spriteFolder": "planets/assets/icons",
+		"mapMode" : {
+			"revealedSprite": "planets/assets/icons/graebur.png",
+			"scale": 0.3125
+		}
 	}
 }

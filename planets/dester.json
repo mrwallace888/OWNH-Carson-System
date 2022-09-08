@@ -26,17 +26,15 @@
 	"Atmosphere" :
 	{
 		"hasOxygen" : false,
-		"size" : 3000,
-		"fogTint" : 
-		{
-			"r" : 255,
-			"g" : 172,
-			"b" : 38,
-			"a" : 255
+		"size" : 2650,
+		"clouds": {
+			"rotationSpeed": 0.25,
+			"outerCloudRadius": 2550,
+			"fluidType": "cloud",
+			"cloudsPrefab": "transparent",
+			"texturePath": "planets/assets/desertclouds.png"
 		},
 		"atmosphereSunIntensity": 1,
-		"fogDensity": 1,
-		"fogSize": 3000,
 		"useAtmosphereShader": true,
 		"atmosphereTint" : 
 		{
@@ -50,16 +48,36 @@
 	{
 		"heightMap" : "planets/assets/desterheightmap.png",	
 		"textureMap" : "planets/assets/dester.png",	
-		"minHeight" : 2400,
+		"minHeight" : 2300,
 		"maxHeight" : 2500,
 		"resolution": 1024
+	},
+	"Volumes": {
+		"audioVolumes": [
+			{
+				"audio": "planets/environments/dester.wav",
+				"track": "environment",
+				"radius": 2650,
+				"loop": true
+			}
+		]
 	},
 	"Props": {
 		"scatter": [
 			{
 				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_HT/Interactables_HTState/Interactables_CTState/CTState_Q_Objects/CTState_QCactus/Q_Cactus/Prefab_HGT_Cactus_Single_A",
-				"count": 500
+				"count": 1000,
+				"minHeight": 2400,
+				"maxHeight": 2500,
+				"preventOverlap": false
 			}
 		]
+	},
+	"ShipLog" : {
+		"spriteFolder": "planets/assets/icons",
+		"mapMode" : {
+			"revealedSprite": "planets/assets/icons/dester.png",
+			"scale": 0.625
+		}
 	}
 }
