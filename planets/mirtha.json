@@ -1,5 +1,5 @@
 {
-	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/dev/NewHorizons/Schemas/body_schema.json",
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
 	"name" : "Mirtha",
 	"starSystem" : "JackFoxtrot.CarsonSystem",
 	"Base" :
@@ -26,17 +26,15 @@
 	"Atmosphere" :
 	{
 		"hasOxygen" : false,
-		"size" : 3000,
-		"fogTint" : 
-		{
-			"r" : 255,
-			"g" : 172,
-			"b" : 38,
-			"a" : 255
+		"size" : 2650,
+		"clouds": {
+			"rotationSpeed": 0.25,
+			"outerCloudRadius": 2550,
+			"fluidType": "cloud",
+			"cloudsPrefab": "transparent",
+			"texturePath": "planets/assets/martianclouds.png"
 		},
 		"atmosphereSunIntensity": 1,
-		"fogDensity": 1,
-		"fogSize": 3000,
 		"useAtmosphereShader": true,
 		"atmosphereTint" : 
 		{
@@ -53,5 +51,12 @@
 		"minHeight" : 2400,
 		"maxHeight" : 2500,
 		"resolution": 1024
+	},
+	"ShipLog" : {
+		"spriteFolder": "planets/assets/icons",
+		"mapMode" : {
+			"revealedSprite": "planets/assets/icons/mirtha.png",
+			"scale": 0.625
+		}
 	}
 }

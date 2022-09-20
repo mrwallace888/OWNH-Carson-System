@@ -46,6 +46,13 @@
 			"a" : 255
 		},
 		"solarLuminosity" : 1.0,
-		"goSupernova": false
+		"stellarDeathType": "none"
+	},
+	"ShipLog" : {
+		"spriteFolder": "planets/assets/icons",
+		"mapMode" : {
+			"revealedSprite": "planets/assets/icons/carson.png",
+			"scale": 1.6
+		}
 	}
 }

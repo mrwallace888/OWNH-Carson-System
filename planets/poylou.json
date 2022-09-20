@@ -1,0 +1,144 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name" : "Poylou",
+	"starSystem" : "JackFoxtrot.CarsonSystem",
+	"Base" :
+	{
+		"surfaceGravity" : 12,
+		"surfaceSize" : 2500,
+		"hasMapMarker" : true,
+		"ambientLight": 1.4
+	},
+	"Orbit" :
+	{
+		"semiMajorAxis" : 200000,
+		"inclination" : 5,
+		"primaryBody" : "Carson",
+		"isMoon" : false,
+		"longitudeOfAscendingNode" : 69,
+		"eccentricity" : 0,
+		"argumentOfPeriapsis": 0,
+		"trueAnomaly" : -37,
+		"axialTilt" : 40,
+		"siderealPeriod" : 5,
+		"showOrbitLine": true
+	},
+	"Water" : {
+		"size" : 2210,
+		"tint" :
+		{
+			"r" : 510,
+			"g" : 366,
+			"b" : 0,
+			"a" : 255
+		}
+	},
+	"Atmosphere" :
+	{
+		"hasOxygen" : false,
+		"size" : 2900,
+		"hasRain": true,
+		"hasSnow": true,
+		"clouds": {
+			"rotationSpeed": 0,
+			"outerCloudRadius": 2900,
+			"innerCloudRadius": 2600,
+			"fluidType": "cloud",
+			"cloudsPrefab": "quantumMoon",
+			"texturePath": "planets/assets/toxic.png",
+			"tint": {
+				"r": 255,
+				"g": 183,
+				"b": 0,
+				"a": 255
+			},
+			"hasLightning": true,
+			"lightningGradient": [
+				{"tint": {
+					"r": 255,
+					"g": 183,
+					"b": 0,
+					"a": 255
+				}
+			}
+			]
+		},
+		"fogTint" : 
+		{
+			"r" : 255,
+			"g" : 238,
+			"b" : 161,
+			"a" : 255
+		},
+		"atmosphereSunIntensity": 1,
+		"fogDensity": 6,
+		"fogSize": 2600,
+		"useAtmosphereShader": false,
+		"atmosphereTint" : 
+		{
+			"r" : 255,
+			"g" : 172,
+			"b" : 38,
+			"a" : 255
+		}
+	},
+	"Rings" : [
+		{
+		"texture": "planets/assets/poylou rings.png",
+		"fluidType": "sand",
+		"unlit": false,
+		"rotationSpeed": 1.2,
+		"innerRadius": 4000,
+		"outerRadius": 6000,
+		"inclination": 0,
+		"longitudeOfAscendingNode": 0
+		}
+	],
+	"HeightMap" :
+	{
+		"heightMap" : "planets/assets/poylouheightmap.png",	
+		"textureMap" : "planets/assets/poylou.png",	
+		"emissionMap": "planets/assets/poylouemissive.png",
+		"emissionColor": {
+			"r" : 510,
+			"g" : 510,
+			"b" : 510,
+			"a" : 255
+		},
+		"minHeight" : 2000,
+		"maxHeight" : 2500,
+		"resolution": 1024
+	},
+	"Volumes": {
+		"audioVolumes": [
+			{
+				"audio": "planets/environments/poyloumusic.wav",
+				"track": "music",
+				"radius": 2600,
+				"loop": true
+			}
+		],
+		"notificationVolumes": [
+			{
+				"radius": 2600,
+				"entryNotification": {
+					"displayMessage": "WARNING: EXTREME RADIATION DETECTED, CONTINUE CAUTIOUSLY",
+					"duration": 10
+				},
+				"target": "ship"
+			}
+		]
+	},
+	"Props": {
+		"scatter": [
+			{
+				"path": "TimberHearth_Body/Sector_TH/Sector_QuantumGrove/Interactables_QuantumGrove/QuantumGrove_QuantumSockets/RootsSockets/Socket (4)/QuantumRoots_Proxy/OLD_Tree_TH_RootStump",
+				"count": 500,
+				"minHeight": 2220,
+				"maxHeight": 2500,
+				"preventOverlap": false,
+				"keepLoaded": false
+			}
+		]
+	}
+}

@@ -1,19 +1,19 @@
 {
-	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/dev/NewHorizons/Schemas/body_schema.json",
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
 	"name" : "Urath",
 	"starSystem" : "JackFoxtrot.CarsonSystem",
 	"Spawn": {
 		"playerSpawnPoint": 
 		{
-			"x": 2153.903,
-			"y": -432.6272,
-			"z": 993.0703
+			"x": 1826.022,
+			"y": -659.5553,
+			"z": 1427.387
 		},
 		"shipSpawnPoint": 
 		{
-			"x": 2153.903,
-			"y": -432.6272,
-			"z": 993.0703
+			"x": 1826.022,
+			"y": -659.5553,
+			"z": 1427.387
 		},
 		"startWithSuit": true
 	},
@@ -51,17 +51,15 @@
 	"Atmosphere" :
 	{
 		"hasOxygen" : true,
-		"size" : 3000,
-		"fogTint" : 
-		{
-			"r" : 38,
-			"g" : 132,
-			"b" : 255,
-			"a" : 255
+		"size" : 2650,
+		"clouds": {
+			"rotationSpeed": 0.25,
+			"outerCloudRadius": 2550,
+			"fluidType": "cloud",
+			"cloudsPrefab": "transparent",
+			"texturePath": "planets/assets/terrestrialclouds.png"
 		},
 		"atmosphereSunIntensity": 1,
-		"fogDensity": 1,
-		"fogSize": 3000,
 		"useAtmosphereShader": true,
 		"atmosphereTint" : 
 		{
@@ -79,14 +77,33 @@
 		"maxHeight" : 2500,
 		"resolution": 1024
 	},
+	"Volumes": {
+		"audioVolumes": [
+			{
+				"audio": "planets/environments/urath.wav",
+				"track": "environment",
+				"radius": 2650,
+				"loop": true
+			}
+		]
+	},
 	"Props": {
 		"scatter": [
 			{
 				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_Surface/Surface_AlpineClump_L/Q_AlpineClump_L/BatchedGroup",
 				"count": 500,
 				"minHeight": 2410,
-				"maxHeight": 2500
+				"maxHeight": 2500,
+				"preventOverlap": false,
+				"keepLoaded": false
 			}
 		]
+	},
+	"ShipLog" : {
+		"spriteFolder": "planets/assets/icons",
+		"mapMode" : {
+			"revealedSprite": "planets/assets/icons/urath.png",
+			"scale": 0.625
+		}
 	}
 }
