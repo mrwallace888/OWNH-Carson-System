@@ -60,6 +60,6 @@ Welcome to *Carson*, a star system 2.4 lightyears away from the Sun. Shortly aft
 *Pyer* is a cloudy moon that orbits *Scarlet Storm*. The atmosphere is composed of hydrogen cyanide. Take extreme caution when exploring.
 ![](https://i.imgur.com/nfdsK9I.png)
 
-### Poylou
+## Poylou
 A strange planet has appeared in the Carson system. *Poylou* appears to have high levels of radiation. It is unknown what is beneath the toxic clouds, but it is highly recommended *not* to find out until further research is made.
 ![](https://i.imgur.com/BC5Ul9W.png)
