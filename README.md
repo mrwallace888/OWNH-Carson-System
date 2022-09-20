@@ -42,11 +42,11 @@ Welcome to *Carson*, a star system 2.4 lightyears away from the Sun. Shortly aft
 
 ## Platinum Hue
 *Platinum Hue* is a big gas giant. It has a pearlescent appearance, with the clouds containing mesmerizing pastel swirls in a beautiful sea of ivory. Nobody knows as of yet what lies beyond the enticing atmosphere, but it is highly recommended *not* to find out until further research is made.
-![](https://i.imgur.com/y3V2cMf.png)
+![](https://i.imgur.com/y3V2cMf.)
 
 ### Glaze
 *Glaze* is one of the moons from *Platinum Hue*. It is a frozen rock of ice with many canyons and valleys.
-![](https://i.imgur.com/Lj6HXMZ.png)
+![](https://i.imgur.com/Lj6HXMZ.)
 
 ### Draeo
 *Draeo* is another moon orbiting *Platinum Hue*. It is a very dry planet without any sort of atmosphere, but samples could prove useful for research.
@@ -58,7 +58,7 @@ Welcome to *Carson*, a star system 2.4 lightyears away from the Sun. Shortly aft
 
 ### Pyer
 *Pyer* is a cloudy moon that orbits *Scarlet Storm*. The atmosphere is composed of hydrogen cyanide. Take extreme caution when exploring.
-![](https://i.imgur.com/nfdsK9I.png)
+![](https://i.imgur.com/nfdsK9I.)
 
 ### Poylou
 A strange planet has appeared in the Carson system. *Poylou* appears to have high levels of radiation. It is unknown what is beneath the toxic clouds, but it is highly recommended *not* to find out until further research is made.
