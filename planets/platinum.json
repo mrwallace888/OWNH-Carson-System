@@ -1,5 +1,5 @@
 {
-	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/dev/NewHorizons/Schemas/body_schema.json",
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
 	"name" : "Platinum Hue",
 	"starSystem" : "JackFoxtrot.CarsonSystem",
 	"Base" :
@@ -56,6 +56,44 @@
 			"b": 255,
 			"a": 255
 		}
+	},
+	"Props": {
+		"tornados": [
+			{
+				"height": 500,
+				"position": {
+					"x": 0,
+					"y": 1,
+					"z": 0
+				},
+				"wanderRate": 0,
+				"type": "downwards",
+				"tint": {
+					"r": 255,
+					"g": 255,
+					"b": 255,
+					"a": 255
+				},
+				"fluidType": "cloud"
+			},
+			{
+				"height": 500,
+				"position": {
+					"x": 0,
+					"y": -1,
+					"z": 0
+				},
+				"wanderRate": 0,
+				"type": "downwards",
+				"tint": {
+					"r": 255,
+					"g": 255,
+					"b": 255,
+					"a": 255
+				},
+				"fluidType": "cloud"
+			}
+		]
 	},
 	"Volumes": {
 		"notificationVolumes": [

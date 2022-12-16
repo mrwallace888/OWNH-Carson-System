@@ -1,5 +1,5 @@
 {
-	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/dev/NewHorizons/Schemas/body_schema.json",
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
 	"name" : "Poylou",
 	"starSystem" : "JackFoxtrot.CarsonSystem",
 	"Base" :
@@ -36,19 +36,18 @@
 	"Atmosphere" :
 	{
 		"hasOxygen" : false,
-		"size" : 2900,
+		"size" : 2650,
 		"hasRain": true,
 		"hasSnow": true,
 		"clouds": {
-			"rotationSpeed": 0,
-			"outerCloudRadius": 2900,
-			"innerCloudRadius": 2600,
+			"rotationSpeed": -10,
+			"outerCloudRadius": 2550,
 			"fluidType": "cloud",
-			"cloudsPrefab": "quantumMoon",
-			"texturePath": "planets/assets/toxic.png",
+			"cloudsPrefab": "transparent",
+			"texturePath": "planets/assets/exU2k6ru_o3.png",
 			"tint": {
 				"r": 255,
-				"g": 183,
+				"g": 255,
 				"b": 0,
 				"a": 255
 			},
@@ -56,7 +55,7 @@
 			"lightningGradient": [
 				{"tint": {
 					"r": 255,
-					"g": 183,
+					"g": 255,
 					"b": 0,
 					"a": 255
 				}
@@ -72,7 +71,7 @@
 		},
 		"atmosphereSunIntensity": 1,
 		"fogDensity": 6,
-		"fogSize": 2600,
+		"fogSize": 2650,
 		"useAtmosphereShader": false,
 		"atmosphereTint" : 
 		{
@@ -82,8 +81,8 @@
 			"a" : 255
 		}
 	},
-	"Ring" :
-	{
+	"Rings" : [
+		{
 		"texture": "planets/assets/poylou rings.png",
 		"fluidType": "sand",
 		"unlit": false,
@@ -92,7 +91,8 @@
 		"outerRadius": 6000,
 		"inclination": 0,
 		"longitudeOfAscendingNode": 0
-	},
+		}
+	],
 	"HeightMap" :
 	{
 		"heightMap" : "planets/assets/poylouheightmap.png",	
@@ -111,15 +111,27 @@
 	"Volumes": {
 		"audioVolumes": [
 			{
-				"audio": "planets/environments/poyloumusic.wav",
+				"audio": "systems/64daysofstatic - Escape Velocity.mp3",
 				"track": "music",
-				"radius": 2600,
+				"radius": 2650,
+				"loop": true
+			},
+			{
+				"audio": "planets/environments/fx/Extreme Radiation Detected.mp3",
+				"track": "playerExternal",
+				"radius": 2650,
+				"loop": false
+			},
+			{
+				"audio": "planets/environments/gasgiant2.wav",
+				"track": "environment",
+				"radius": 2650,
 				"loop": true
 			}
 		],
 		"notificationVolumes": [
 			{
-				"radius": 2600,
+				"radius": 2650,
 				"entryNotification": {
 					"displayMessage": "WARNING: EXTREME RADIATION DETECTED, CONTINUE CAUTIOUSLY",
 					"duration": 10
@@ -135,7 +147,8 @@
 				"count": 500,
 				"minHeight": 2220,
 				"maxHeight": 2500,
-				"preventOverlap": false
+				"preventOverlap": false,
+				"keepLoaded": false
 			}
 		]
 	}

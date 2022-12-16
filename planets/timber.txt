@@ -1,0 +1,14 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name" : "Timber Hearth",
+	"Atmosphere" :
+	{
+		"clouds": {
+			"rotationSpeed": -0.25,
+			"outerCloudRadius": 325,
+			"fluidType": "cloud",
+			"cloudsPrefab": "transparent",
+			"texturePath": "planets/assets/terrestrialclouds.png"
+		}
+	}
+}

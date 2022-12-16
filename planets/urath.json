@@ -1,19 +1,19 @@
 {
-	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/dev/NewHorizons/Schemas/body_schema.json",
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
 	"name" : "Urath",
 	"starSystem" : "JackFoxtrot.CarsonSystem",
 	"Spawn": {
 		"playerSpawnPoint": 
 		{
-			"x": 2153.903,
-			"y": -432.6272,
-			"z": 993.0703
+			"x": 1826.022,
+			"y": -659.5553,
+			"z": 1427.387
 		},
 		"shipSpawnPoint": 
 		{
-			"x": 2153.903,
-			"y": -432.6272,
-			"z": 993.0703
+			"x": 1826.022,
+			"y": -659.5553,
+			"z": 1427.387
 		},
 		"startWithSuit": true
 	},
@@ -94,7 +94,8 @@
 				"count": 500,
 				"minHeight": 2410,
 				"maxHeight": 2500,
-				"preventOverlap": false
+				"preventOverlap": false,
+				"keepLoaded": false
 			}
 		]
 	},

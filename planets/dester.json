@@ -1,5 +1,5 @@
 {
-	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/dev/NewHorizons/Schemas/body_schema.json",
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
 	"name" : "Dester",
 	"starSystem" : "JackFoxtrot.CarsonSystem",
 	"Base" :
@@ -69,7 +69,8 @@
 				"count": 1000,
 				"minHeight": 2400,
 				"maxHeight": 2500,
-				"preventOverlap": false
+				"preventOverlap": false,
+				"keepLoaded": false
 			}
 		]
 	},

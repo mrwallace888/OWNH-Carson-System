@@ -1,5 +1,5 @@
 {
-	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/dev/NewHorizons/Schemas/body_schema.json",
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
 	"name" : "Scarlet Storm",
 	"starSystem" : "JackFoxtrot.CarsonSystem",
 	"Base" :
@@ -83,8 +83,8 @@
 			}
 		]
 	},
-	"Ring" :
-	{
+	"Rings" : [
+		{
 		"texture": "planets/assets/scarlet rings.png",
 		"fluidType": "sand",
 		"unlit": false,
@@ -93,7 +93,8 @@
 		"outerRadius": 7000,
 		"inclination": 0,
 		"longitudeOfAscendingNode": 0
-	},
+		}
+	],
 	"ShipLog" : {
 		"spriteFolder": "planets/assets/icons",
 		"mapMode" : {
