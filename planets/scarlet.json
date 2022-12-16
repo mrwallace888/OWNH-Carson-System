@@ -68,6 +68,16 @@
 				"target": "ship"
 			}
 		],
+		"interferenceVolumes": [
+			{
+				"radius": 4000
+			}
+		],
+		"mapRestrictionVolumes": [
+			{
+				"radius": 4000
+			}
+		],
 		"audioVolumes": [
 			{
 				"audio": "planets/environments/gasgiant2.wav",
@@ -79,7 +89,15 @@
 				"audio": "planets/environments/fx/gasgiantentrance.wav",
 				"track": "environmentUnfiltered",
 				"radius": 4000,
-				"loop": false
+				"loop": false,
+				"noFadeFromBeginning": true
+			},
+			{
+				"audio": "planets/environments/fx/warnings/Weather Warning Incoming Storm.wav",
+				"track": "ship",
+				"radius": 3700,
+				"loop": false,
+				"noFadeFromBeginning": true
 			}
 		]
 	},

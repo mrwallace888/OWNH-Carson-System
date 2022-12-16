@@ -111,19 +111,20 @@
 	"Volumes": {
 		"audioVolumes": [
 			{
-				"audio": "systems/64daysofstatic - Escape Velocity.mp3",
+				"audio": "systems/64daysofstatic - Escape Velocity.wav",
 				"track": "music",
 				"radius": 2650,
 				"loop": true
 			},
 			{
-				"audio": "planets/environments/fx/Extreme Radiation Detected.mp3",
-				"track": "playerExternal",
+				"audio": "planets/environments/fx/warnings/Extreme Radiation Detected.wav",
+				"track": "ship",
 				"radius": 2650,
-				"loop": false
+				"loop": false,
+				"noFadeFromBeginning": true
 			},
 			{
-				"audio": "planets/environments/gasgiant2.wav",
+				"audio": "planets/environments/fx/crucial_rumble_rain.wav",
 				"track": "environment",
 				"radius": 2650,
 				"loop": true

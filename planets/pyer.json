@@ -77,10 +77,19 @@
 			{
 				"radius": 600,
 				"entryNotification": {
-					"displayMessage": "WARNING: CORROSIVE WEATHER DETECTED, CONTINUE CAUTIOUSLY",
+					"displayMessage": "WARNING: ACIDIC WEATHER DETECTED, CONTINUE CAUTIOUSLY",
 					"duration": 10
 				},
 				"target": "ship"
+			}
+		],
+		"audioVolumes": [
+			{
+				"audio": "planets/environments/fx/warnings/Extreme Hazard Planet.wav",
+				"track": "ship",
+				"radius": 600,
+				"loop": false,
+				"noFadeFromBeginning": true
 			}
 		]
 	},

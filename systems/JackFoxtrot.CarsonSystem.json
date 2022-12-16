@@ -14,6 +14,6 @@
 	"startHere" : false,
 	"destroyStockPlanets" : true,
 	"enableTimeLoop" : false,
-	"travelAudio": "64daysofstatic - Supermoon.wav",
+	"travelAudio": "systems/64daysofstatic - Supermoon.wav",
 	"farClipPlaneOverride": 500000
 }

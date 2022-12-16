@@ -67,6 +67,27 @@
 		}
 		
 	},
+	"Volumes": {
+		"notificationVolumes": [
+			{
+				"radius": 2600,
+				"entryNotification": {
+					"displayMessage": "WARNING: EXTREME TEMPERATURE DETECTED, CONTINUE CAUTIOUSLY",
+					"duration": 10
+				},
+				"target": "ship"
+			}
+		],
+		"audioVolumes": [
+			{
+				"audio": "planets/environments/fx/warnings/Extreme Temperature Detected.wav",
+				"track": "ship",
+				"radius": 2600,
+				"loop": false,
+				"noFadeFromBeginning": true
+			}
+		]
+	},
 	"HeightMap" :
 	{
 		"heightMap" : "planets/assets/volcusheightmap.png",	
